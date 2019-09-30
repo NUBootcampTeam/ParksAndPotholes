@@ -1,2 +1,0 @@
-# ParksAndPotholes
-Project 1
